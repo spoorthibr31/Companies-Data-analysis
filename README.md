@@ -18,5 +18,6 @@ Here we wants to create an job/internship report on Rajasthan companies.So that,
 - create insights for the questions.
 
 ## Dashboard
-![Dashboard screenshot](https://github.com/user-attachments/assets/81aaf697-90cc-4bd2-b242-4ef5165d6726)
+![Dashboard screenshot](https://github.com/user-attachments/assets/aae1e503-afea-45c9-9854-3fa52823b1af)
+
 
