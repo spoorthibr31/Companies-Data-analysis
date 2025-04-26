@@ -1,2 +1,3 @@
-# Companies-Data-analysis
-I developed a comprehensive project in powerBI, creating dashboards to analyze the data. This process involved several stages like data mining, data preprocessing, data cleaning and data visualization.
+# Companies-Data-analysis (Interactive dashboard creation using PowerBI)
+## Project Objective
+Here we wants to create an job/internship report on Rajasthan companies.So that, the peoples in rajasthan can understand the job/internship openings in certain designation.
